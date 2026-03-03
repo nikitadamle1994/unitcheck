@@ -10,7 +10,7 @@ A static web application for unit conversions (Celsius/Fahrenheit, km/miles, kg/
 - **package.json** — Node.js project config with Jest as dev dependency
 
 ## How to Run
-- The app is served as a static site using `serve` on port 5,000
+- The app is served as a static site using `serve` on port 5000
 - Tests: `npm test` (runs Jest)
 
 ## Deployment
